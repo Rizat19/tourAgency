@@ -1,0 +1,13 @@
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\bin\Debug\netcoreapp3.1\Bilet.exe
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\bin\Debug\netcoreapp3.1\Bilet.deps.json
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\bin\Debug\netcoreapp3.1\Bilet.runtimeconfig.json
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\bin\Debug\netcoreapp3.1\Bilet.runtimeconfig.dev.json
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\bin\Debug\netcoreapp3.1\Bilet.dll
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\bin\Debug\netcoreapp3.1\Bilet.pdb
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\obj\Debug\netcoreapp3.1\Bilet.csprojAssemblyReference.cache
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\obj\Debug\netcoreapp3.1\Bilet.AssemblyInfoInputs.cache
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\obj\Debug\netcoreapp3.1\Bilet.AssemblyInfo.cs
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\obj\Debug\netcoreapp3.1\Bilet.csproj.CoreCompileInputs.cache
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\obj\Debug\netcoreapp3.1\Bilet.dll
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\obj\Debug\netcoreapp3.1\Bilet.pdb
+C:\Users\Rizat\RiderProjects\TourAgency\Bilet\obj\Debug\netcoreapp3.1\Bilet.genruntimeconfig.cache

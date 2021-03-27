@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourAgency", "TourAgency\TourAgency.csproj", "{9803CA21-9F12-4BC0-8107-6CF9CCE4BFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilet", "Bilet\Bilet.csproj", "{006058A8-4647-4219-8918-75D55F9DD1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9803CA21-9F12-4BC0-8107-6CF9CCE4BFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9803CA21-9F12-4BC0-8107-6CF9CCE4BFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9803CA21-9F12-4BC0-8107-6CF9CCE4BFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9803CA21-9F12-4BC0-8107-6CF9CCE4BFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006058A8-4647-4219-8918-75D55F9DD1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006058A8-4647-4219-8918-75D55F9DD1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006058A8-4647-4219-8918-75D55F9DD1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006058A8-4647-4219-8918-75D55F9DD1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\bin\Debug\netcoreapp3.1\TourAgency.exe
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\bin\Debug\netcoreapp3.1\TourAgency.deps.json
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\bin\Debug\netcoreapp3.1\TourAgency.runtimeconfig.json
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\bin\Debug\netcoreapp3.1\TourAgency.runtimeconfig.dev.json
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\bin\Debug\netcoreapp3.1\TourAgency.dll
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\bin\Debug\netcoreapp3.1\TourAgency.pdb
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\obj\Debug\netcoreapp3.1\TourAgency.csprojAssemblyReference.cache
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\obj\Debug\netcoreapp3.1\TourAgency.AssemblyInfoInputs.cache
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\obj\Debug\netcoreapp3.1\TourAgency.AssemblyInfo.cs
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\obj\Debug\netcoreapp3.1\TourAgency.csproj.CoreCompileInputs.cache
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\obj\Debug\netcoreapp3.1\TourAgency.dll
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\obj\Debug\netcoreapp3.1\TourAgency.pdb
+C:\Users\Rizat\RiderProjects\TourAgency\TourAgency\obj\Debug\netcoreapp3.1\TourAgency.genruntimeconfig.cache
